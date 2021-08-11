@@ -1,4 +1,4 @@
-# Depth First Search for HuaRongDao
+# Depth First Search for Game (Hua Rong Dao)
 
 Depth First Search is an uniformed search algorithm.
 - Treats the frontier as a stack (LIFO)
